@@ -1,2 +1,2 @@
-# La-cr-pe-Pamela
+# PamelaMimosa
 Exercice GitHub en classe
