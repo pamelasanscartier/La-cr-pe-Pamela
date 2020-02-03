@@ -1,4 +1,4 @@
-# PamelaMimosa
+# Pam en chocolat
 Exercice GitHub en classe
 
 ## Exemple de sous-titre
